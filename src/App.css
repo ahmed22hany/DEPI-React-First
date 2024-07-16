@@ -1,0 +1,43 @@
+.input-width {
+  max-width: 300px;
+  margin: 25px auto;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.input-place::placeholder {
+  color: gray;
+  font-style: italic;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: 800 !important;
+  font-size: 18px !important;
+  max-width: 200px;
+  margin: auto;
+}
+
+.try {
+  white-space: wrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-block-size: 100px;
+  margin: 15px 0;
+}
+
+.custom-btn {
+  padding: 12px 24px;
+  border: none;
+  border-radius: 10px;
+  width: fit-content;
+  margin: 10px auto;
+}
