@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/depi-react-first/static/css/main.6b9dc96d.css",
+    "main.js": "/depi-react-first/static/js/main.bcbd754f.js",
+    "index.html": "/depi-react-first/index.html",
+    "main.6b9dc96d.css.map": "/depi-react-first/static/css/main.6b9dc96d.css.map",
+    "main.bcbd754f.js.map": "/depi-react-first/static/js/main.bcbd754f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b9dc96d.css",
+    "static/js/main.bcbd754f.js"
+  ]
+}
